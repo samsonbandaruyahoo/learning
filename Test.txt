@@ -1,5 +1,6 @@
 This is First line
 This is second line
+Bogus Line
 <<<<<<< HEAD
 This is the Third Line
 =======
